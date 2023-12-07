@@ -1,4 +1,4 @@
-slock - simple screen locker
+My build of simple screen locker it has the pam auth patch and the backgound and foreground patch
 ============================
 simple screen locker utility for X.
 
